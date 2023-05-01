@@ -12,7 +12,7 @@
 <a alt='instagram' href="https://www.instagram.com/patuangs/"><img src="https://img.shields.io/badge/One_Small_Family-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a alt='tiktok' href="https://www.tiktok.com/@wasteofadrumbum?"><img src="https://img.shields.io/badge/WasteOfADrumBum-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
 <a alt='steam' href="https://steamcommunity.com/id/wasteofadrumbum/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a alt='spotify' href="https://open.spotify.com/user/1224180199"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a alt='spotify' href="https://open.spotify.com/user/217fmp2sareo6bnyi2nq43h4q?si=7f6504ed685e43b5"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <!--
 **Patuan-28/Patuan-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
