@@ -1,6 +1,9 @@
-### Hi there 👋
-im currently learning programming
+### Patuan Garcia Situmorang
+### Software Engineering Programmer 🖥 | Gamer Enthusiast 🎮 | Love Pets 🐶
 
+<p align="center">
+  <img width="460" height="300" src="https://picsum.photos/460/300">
+</p>
 <!--
 **Patuan-28/Patuan-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
