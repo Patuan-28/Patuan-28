@@ -1,8 +1,8 @@
 ### Patuan Garcia Situmorang
 ### Software Engineering Programmer 🖥 | Gamer Enthusiast 🎮 | Love Pets 🐶
 
-<p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
+<p align="left">
+  <img width="460" height="300" src="https://media.discordapp.net/attachments/977606152269467659/1102458935300075541/fotopribadi.jpeg?width=358&height=637">
 </p>
 <!--
 **Patuan-28/Patuan-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
