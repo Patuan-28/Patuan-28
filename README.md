@@ -2,7 +2,7 @@
 ### Software Engineering Programmer 🖥 | Gamer Enthusiast 🎮 | Love Pets 🐶
 
 <p align="left">
-  <img width="360" height="720" src="https://media.discordapp.net/attachments/977606152269467659/1102458935300075541/fotopribadi.jpeg?width=358&height=637">
+  <img width="180" height="360" src="https://media.discordapp.net/attachments/977606152269467659/1102458935300075541/fotopribadi.jpeg?width=358&height=637">
 </p>
 <!--
 **Patuan-28/Patuan-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
